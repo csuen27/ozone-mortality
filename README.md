@@ -3,7 +3,7 @@ Here we share some demonstrative and tutorial codes which were used to accomplis
 
 The research questions are: i) how ambient ozone change with space and time over the past 30 years, 1990-2019, ii) how urban and rural populations are exposed to different levels of ozone pollution, and iii) how manu premature deaths are caused from long-term ozone exposure. 
 
-The codes are classified into 3 categories, as listed below:   
+The codes are classified into 4 categories, as listed below:   
 Analysis:   
 A1-1 Mortality estimation by curved risk model   
 A2-1 Change rate decomposition: Mortality 1990  
@@ -26,6 +26,14 @@ F3 Excess mortality mapping
 F4 Mortality piling-up   
 F5 Mortality sorting   
 F6 Change rate decomposition   
+
+Extended Analyses: 
+EX1 Literature external validation 
+EX2 Eagle-eye of longitudinal variability
+EX3 Population density projection 
+
+NATSUSTAIN-22113342B (R1) revision submitted on 12 Feb 2023
+Codes are updated into v2.1.0 accordingly
 
 The original ambient ozone database can be found at:   
 1. The Bayesian neural network downscaled (BNNDv1) dataset: Sun et al. Spatial Resolved Surface Ozone with Urban and Rural Differentiation during 1990–2019: A Space–Time Bayesian Neural Network Downscaler. Environ. Sci. Technol. 2022, 56, 11, 7337–7349. https://doi.org/10.1021/acs.est.1c04797.   
